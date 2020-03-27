@@ -1,4 +1,4 @@
-# Policy-Incubator challenge (2020), imposed by European Committee of the Regions
+# Policy-Incubator challenge (2020), imposed by the European Committee of the Regions
 
 Contents:
 - A method for stratified random sampling in small-N studies (stratification based on one background variable).
