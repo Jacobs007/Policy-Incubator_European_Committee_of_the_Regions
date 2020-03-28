@@ -6,7 +6,7 @@ Contents:
 - A Wordfish analysis both with the Text-Mining library (TM) and the Quanteda library.
 - Graphics resulting from the Wordfish analysis.
 - The extracted pieces of text from each manifesto.
-- The data can be found [here](https://github.com/Jacobs007/Data_Policy_Incubator_CoR_2020)
+- The data can be found [here](https://github.com/Jacobs007/Data_Policy_Incubator_CoR_2020).
 
 Remarks:
 - The wordclouds are produced after the data was stemmed, hence the words sometimes seem a little unnatural. 
